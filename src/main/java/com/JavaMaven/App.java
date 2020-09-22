@@ -23,5 +23,6 @@ public class App
         LOG.info("Appending string: {}.",message);
         System.out.println(message);
         System.out.println("sid");
+	    System.out.println("new sid");
     }
 }
