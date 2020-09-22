@@ -27,3 +27,5 @@ ERROR | 2020-09-21 14:38:03 | [main] JavaMaven.App (App.java:21) - Hello, World 
 FATAL | 2020-09-21 14:38:03 | [main] JavaMaven.App (App.java:22) - Hello, World Will Be Printed On Fatal
 ERROR | 2020-09-21 14:38:21 | [main] JavaMaven.App (App.java:21) - Hello, World Will Be Printed On Error
 FATAL | 2020-09-21 14:38:21 | [main] JavaMaven.App (App.java:22) - Hello, World Will Be Printed On Fatal
+ERROR | 2020-09-22 12:50:22 | [main] JavaMaven.App (App.java:21) - Hello, World Will Be Printed On Error
+FATAL | 2020-09-22 12:50:22 | [main] JavaMaven.App (App.java:22) - Hello, World Will Be Printed On Fatal
